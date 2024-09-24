@@ -1,3 +1,26 @@
+## hri_msgs (humble) - 2.1.0-1
+
+The packages in the `hri_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble hri_msgs --override-release-repository-push-url git@github.com:revyos-ros/hri_msgs-release.git` on `Tue, 24 Sep 2024 02:34:47 -0000`
+
+The `hri_msgs` package was released.
+
+Version of package(s) in repository `hri_msgs`:
+
+- upstream repository: https://github.com/ros4hri/hri_msgs.git
+- release repository: https://github.com/revyos-ros/hri_msgs-release.git
+- rosdistro version: `2.1.0-1`
+- old version: `2.0.0-2`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## hri_msgs (humble) - 2.0.0-2
 
 The packages in the `hri_msgs` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble hri_msgs` on `Tue, 21 May 2024 06:06:16 -0000`
